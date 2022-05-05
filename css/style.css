@@ -4,6 +4,8 @@
     font-family: 'Questrial', sans-serif;
   }
 
+  /* Começo do header */ 
+
   a {
     color: white;
     text-decoration: none;
@@ -115,4 +117,9 @@
   .mobile-menu.active .line3 {
     transform: rotate(45deg) translate(-5px, -7px);
   }
+
+  /* Começo da main */ 
   
+  body{
+    background-color: #151515;
+  }
